@@ -21,7 +21,7 @@ I am a Data Science Enthusiast, constantly seeking professionally enriching oppo
 - Kafka
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=30,3b5998,904e95&title_color=fff&text_color=fff" alt="arjunsingh88" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=3b5998&title_color=fff&text_color=fff" alt="arjunsingh88" /></p>
 
 <p align="center">
 <a href="https://github.com/mopidevimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mopidevimu" height="30" width="30" /></a>
