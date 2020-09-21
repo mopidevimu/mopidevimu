@@ -21,12 +21,12 @@ I am a Data Science Enthusiast, constantly seeking professionally enriching oppo
 - Kafka
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=3b5998&title_color=fff&text_color=fff" alt="mopidevimu" /></p>
+<p><img align="center" padding="5px" margin="5px" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=3b5998&title_color=fff&text_color=fff" alt="mopidevimu" /></p>
 
-<p align="center" margin="5px">
-<a href="https://github.com/mopidevimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mopidevimu" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mopidevimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopidevimu" height="30" width="30" /></a>
-<a href="https://kaggle.com/muralimopidevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="muralimopidevi" height="30" width="30" /></a>
-<a href="https://fb.com/mopidevimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mopidevimu" height="30" width="30" /></a>
-<a href="https://instagram.com/murali_mopidevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murali_mopidevi" height="30" width="30" /></a>
+<p align="center" margin="10px">
+<a href="https://github.com/mopidevimu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mopidevimu" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mopidevimu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopidevimu" height="30" width="30" /></a>
+<a href="https://fb.com/mopidevimu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mopidevimu" height="30" width="30" /></a>
+<a href="https://instagram.com/murali_mopidevi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murali_mopidevi" height="30" width="30" /></a>
+<a href="https://kaggle.com/muralimopidevi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="muralimopidevi" height="30" width="30" /></a>
 </p>
