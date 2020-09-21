@@ -1,5 +1,6 @@
-### Murali Krishna MOPIDEVI
-<p align="center" ><img align="center" padding="5px" margin="5px" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=3b5998&title_color=fff&text_color=fff" alt="mopidevimu" /></p>
+<p align="center" padding="5px"><img align="center" padding="5px" margin="5px" src="https://github-readme-stats.vercel.app/api?username=mopidevimu&bg_color=3b5998&title_color=fff&text_color=fff" alt="mopidevimu" /></p>
+
+### Description
 I am a Data Science Enthusiast, constantly seeking professionally enriching opportunities towards data science. Pursuing Masters in BigData in EISTI (CY TECH). Developing Statistics, Modeling skills. Passionately working on NLP and Artificial intelligence.
 
 ## Expertise
